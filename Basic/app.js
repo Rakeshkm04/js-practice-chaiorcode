@@ -25,3 +25,24 @@ let isLoggedIn = 1;
 let booleanIsLoggedIn = Boolean(isLoggedIn);
 
 console.log(booleanIsLoggedIn);
+
+
+// operations in JavaScript
+
+
+let value = 3;
+let negVal = -value;
+console.table([value, negVal]);
+
+
+let str1 = "hello";
+let str2 = "Rakesh";
+let str3 = str1 + str2;
+console.log(str3);
+
+
+console.log("1" + 2);
+console.log(1 + "2");
+console.log("1" + 2 + 2);
+console.log(1 + 2 + "2");
+console.log("1" + 2 - 2);
