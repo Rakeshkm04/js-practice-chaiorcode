@@ -6,3 +6,7 @@ This Repository is the tutorial of JavaScript by Hitesh Choudhary and YouTube Cl
 And in this Repository We learn how to Javascript works and how we create website and add functionality in the website,
 and learn array, stack DOMs etc and through this repository we learn lots of new things,
 Means basic to advanced level of learning with the Hitesh Chaudhary Sir!.
+
+And Lost of Topic we cover in this tutorial like fuctions, object, array, DOM etc.
+and we reference with other youtube channels and learning lot's of things in javascript 
+and after the javascript we design the website and do lot's of tasks in the web development and designing.
