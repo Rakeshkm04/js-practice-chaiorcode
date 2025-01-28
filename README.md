@@ -10,3 +10,10 @@ Means basic to advanced level of learning with the Hitesh Chaudhary Sir!.
 And Lost of Topic we cover in this tutorial like fuctions, object, array, DOM etc.
 and we reference with other youtube channels and learning lot's of things in javascript 
 and after the javascript we design the website and do lot's of tasks in the web development and designing.
+
+
+
+Hello everyone, this repository is the toturial of javasciript by hitesh choudhary and youtube clsses and learning
+and in this repositoy . we learn how howto javascript works and we create website and functionally in the website, 
+and we reference with other youtube channels and learnings lot's of things in javascript 
+and after the javascript we design the website and do lot's of tasks in the web development and designing.
