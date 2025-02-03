@@ -24,3 +24,10 @@ Hello everyone, this repository is the toturial of javasciript by hitesh choudha
 and in this repositoy . we learn how howto javascript works and we create website and functionally in the website, 
 and we reference with other youtube channels and learnings lot's of things in javascript 
 and after the javascript we design the website and do lot's of tasks in the web development and designing.
+
+
+
+
+so the today task is to analyse of the Indolaser website,
+in this website, create some new sections and design these section 
+and also make sure the responsiveness of the website
