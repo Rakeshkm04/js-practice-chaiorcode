@@ -31,3 +31,11 @@ and after the javascript we design the website and do lot's of tasks in the web 
 so the today task is to analyse of the Indolaser website,
 in this website, create some new sections and design these section 
 and also make sure the responsiveness of the website
+
+
+
+And alos make sure the other sector desinging and the coding section to learn and 
+this is the daily routen i'did'nt learn and anything thing in the office and i'm 
+not making new projects, it's unhappy felling for me so 
+i decide to learn to new things but i don't know why i' not learning 
+i loss my hope but i really want to learn and growth
