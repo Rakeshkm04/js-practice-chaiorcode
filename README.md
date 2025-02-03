@@ -39,3 +39,12 @@ this is the daily routen i'did'nt learn and anything thing in the office and i'm
 not making new projects, it's unhappy felling for me so 
 i decide to learn to new things but i don't know why i' not learning 
 i loss my hope but i really want to learn and growth
+
+
+
+
+
+In this field and in this profile i know very well, if my learn is not too good or very
+slow, so i thing i'm not grow too fast also also faces the job loss problem issues 
+so please if anybody is seeing this message so please help me and motive me to learn and grow 
+fast in this field and i'always pray to god please help me to growth.
